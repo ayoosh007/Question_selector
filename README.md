@@ -53,4 +53,6 @@ TO BE IMPROVED
 3. The weightage is rounded off to get questions in integers rather than fractions.This leads to the program sometimes giving a no. +1 or -1 than the requested no..
 4. When all chapters are requested,You currently need to enter all the chapter names manually.
 5. The formatting of this Readme
-That are all I can think of for now
+
+
+That is all I can think of for now
