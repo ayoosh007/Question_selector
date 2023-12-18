@@ -148,11 +148,11 @@ def main():
     - ValueError: If there is an issue with user input or calculations.
     """
     saved_paths = {
-        'Jee adv Phy': r"C:\Users\Seaking!!!\Desktop\python projects\jee_adv_physics.csv",
-        'Jee adv Math': r"C:\Users\Seaking!!!\Desktop\python projects\jee_adv_math.csv",
-        'Jee adv Chem': r"C:\Users\Seaking!!!\Desktop\python projects\jee_adv_chem.csv",
-        'Jee mains Math': r"C:\Users\Seaking!!!\Desktop\python projects\jee_mains_math.csv",
-        'Jee mains Chem': r"C:\Users\Seaking!!!\Desktop\python projects\Jee_mains_chem.csv",
+        'Jee adv Phy': r"C:\Users\Desktop\python projects\jee_adv_physics.csv",
+        'Jee adv Math': r"C:\Users\Desktop\python projects\jee_adv_math.csv",
+        'Jee adv Chem': r"C:\Users\Desktop\python projects\jee_adv_chem.csv",
+        'Jee mains Math': r"C:\Users\Desktop\python projects\jee_mains_math.csv",
+        'Jee mains Chem': r"C:\Users\Desktop\python projects\Jee_mains_chem.csv",
         # Add more saved paths as needed
     }
 
