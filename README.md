@@ -27,19 +27,19 @@ So I made this as I found calculating how many questions to do per chapter ,a te
 
 HOW IT WORKS
 
-1.You decide which subject you want to study.
-2.You either edit the program to include the CSV file path ,if u are going to do this frequently or simply give the program the file path
-3.The program gives you the List of subjects and their respective weightage.
-4.You tell the program
-a)How many chapters you want to practice
+1) You decide which subject you want to study.
+2) You either edit the program to include the CSV file path ,if u are going to do this frequently or simply give the program the file path
+3) The program gives you the List of subjects and their respective weightage.
+4)You tell the program
+a) How many chapters you want to practice
 
-b)The no. of questions you want to practice
+b) The no. of questions you want to practice
 
-c)The name of the chapter
+c) The name of the chapter
 
-d)How many questions you have in your question bank or resource (remember the randomiser will give you a no. between 1 and this no.)
+d) How many questions you have in your question bank or resource (remember the randomiser will give you a no. between 1 and this no.)
 
-e)Do the same for other chapters
+e) Do the same for other chapters
 
 And you are done.
 
@@ -47,9 +47,9 @@ You will receive how many questions you need to do based on the importance of th
 
 
 TO BE IMPROVED
-1.Instead of a randomiser, You could get a distribution containing easy, medium and difficult questions
-2.The go back option doesn't work perfectly.It should go back one step instead of several.
-3.The weightage is rounded off to get questions in integers rather than fractions.This leads to the program sometimes giving a no. +1 or -1 than the requested no..
-4.When all chapters are requested,You currently need to enter all the chapter names manually.
-5.The formatting of this Readme
+1. Instead of a randomiser, You could get a distribution containing easy, medium and difficult questions
+2. The go back option doesn't work perfectly.It should go back one step instead of several.
+3. The weightage is rounded off to get questions in integers rather than fractions.This leads to the program sometimes giving a no. +1 or -1 than the requested no..
+4. When all chapters are requested,You currently need to enter all the chapter names manually.
+5. The formatting of this Readme
 That are all I can think of for now
