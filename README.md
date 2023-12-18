@@ -11,6 +11,7 @@ the no. of easy, medium and difficult questions too, but this was good enough fo
 
 The CSV file format should be as follows:
 Chapter, Percentage
+
 Chapter_1,5
 .
 .
