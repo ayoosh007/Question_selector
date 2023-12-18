@@ -31,6 +31,7 @@ HOW IT WORKS
 2) You either edit the program to include the CSV file path ,if u are going to do this frequently or simply give the program the file path
 3) The program gives you the List of subjects and their respective weightage.
 4) You tell the program
+
 a) How many chapters you want to practice
 
 b) The no. of questions you want to practice
